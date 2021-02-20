@@ -8,7 +8,7 @@ Jupyter notebook outlines how the census data was processed and labeled
 - The HOLC data is from the [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining) project. You can [contact them](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=contactUs) to request the ata. 
 
 ## Citation 
-If you would like to use the data and/or code from this repo, please use the following citation:
+If you would like to use the code from this repo, please use the following citation:
 
 ```
 @article{xu_legacies_nodate,
